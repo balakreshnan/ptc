@@ -49,6 +49,9 @@
 - Configure the container with sql connection
 - Install licence
 - Basic load balancer
+- Download NGinx helm chart from web
+- Download and install dependencies before install nginx
+- install nginx controller
 - Nginx controller
 - Configure thinkworx
 - Download Extentions from thingworx web site
