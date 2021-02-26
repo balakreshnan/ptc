@@ -64,15 +64,15 @@ https://support.ptc.com/help/thingworx/azure_connector_scm/en/#page/thingworx_sc
 - Get iot hub connection string from azure protal
 - list of all the containers
 
-![alt text](https://github.com/balakreshnan/ptc/blob/master/images/ptc1.jpg "Service Health")
+![alt text](https://github.com/balakreshnan/ptc/blob/main/images/ptc1.jpg "Service Health")
 
 - iot hub connector configured
 
-![alt text](https://github.com/balakreshnan/ptc/blob/master/images/ptc2.jpg "Service Health")
+![alt text](https://github.com/balakreshnan/ptc/blob/main/images/ptc2.jpg "Service Health")
 
 - iot out of healthy iot hub connector
 
-![alt text](https://github.com/balakreshnan/ptc/blob/master/images/ptc3.jpg "Service Health")
+![alt text](https://github.com/balakreshnan/ptc/blob/main/images/ptc3.jpg "Service Health")
 
 - Download demo application
 - Unzip the application
@@ -84,4 +84,4 @@ https://support.ptc.com/help/thingworx/azure_connector_scm/en/#page/thingworx_sc
 - start the demo application in cloud shell using node start.js
 - watch the data getting updated in thingworx and iot hub
 
-![alt text](https://github.com/balakreshnan/ptc/blob/master/images/ptc4.jpg "Service Health")
+![alt text](https://github.com/balakreshnan/ptc/blob/main/images/ptc4.jpg "Service Health")
