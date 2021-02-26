@@ -20,6 +20,10 @@
 - Get nginx helm charts
 - Get thinkgworx, iot hub connector help charts
 
+## Architecture
+
+![alt text](https://github.com/balakreshnan/ptc/blob/main/images/IoTStrategy.jpg "Service Health")
+
 ## Steps
 
 - Create a Azure Resource Group
