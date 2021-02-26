@@ -67,7 +67,7 @@ https://support.ptc.com/help/thingworx/azure_connector_scm/en/#page/thingworx_sc
 - Get iot hub connection string from azure protal
 - list of all the containers
 
-![alt text](https://github.com/balakreshnan/ptc/blob/main/images/ptc5.jpg "Service Health")
+![alt text](https://github.com/balakreshnan/ptc/blob/main/images/ptc6.jpg "Service Health")
 
 - iot hub connector configured
 
