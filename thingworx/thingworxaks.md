@@ -56,8 +56,28 @@
 - Download NGinx helm chart from web
 - Download and install dependencies before install nginx
 - install nginx controller
-- Nginx controller
+- ingress controller secret
+- Create a  new secret file
+
+![alt text](https://github.com/balakreshnan/ptc/blob/main/images/nginxsecret1.jpg "Service Health")
+
+- ingress controller config
+
+![alt text](https://github.com/balakreshnan/ptc/blob/main/images/ingressconfig1.jpg "Service Health")
+
+- Values cert config
+
+![alt text](https://github.com/balakreshnan/ptc/blob/main/images/valuescert.jpg "Service Health")
+![alt text](https://github.com/balakreshnan/ptc/blob/main/images/valuescert1.jpg "Service Health")
+![alt text](https://github.com/balakreshnan/ptc/blob/main/images/valuescert2.jpg "Service Health")
+
+- Nginx controller - running in SSL with port 443
+
 - Configure thinkworx
+- thingworx secret file
+
+![alt text](https://github.com/balakreshnan/ptc/blob/main/images/thinkgworxsecret.jpg "Service Health")
+
 - Download Extentions from thingworx web site
 - Import iot hub extension
 - Configure iot hub connector
