@@ -24,6 +24,10 @@
 
 ![alt text](https://github.com/balakreshnan/ptc/blob/main/images/IoTStrategy.jpg "Service Health")
 
+## Process
+
+![alt text](https://github.com/balakreshnan/ptc/blob/main/images/ptcthingworxprocess.jpg "Service Health")
+
 ## Steps
 
 - Create a Azure Resource Group
@@ -34,6 +38,7 @@
 - Create Key vault
 - Create AKS cluster and it's dependant configuration and services
 - Now Create a AKS cluster
+- cluster created in private VNET
 - Create the load balancer
 - Create VM's for Pod
 - Make sure scaling is available to up and down
@@ -49,6 +54,11 @@
 - Push container
 - Create schema for sql
 - Download container for thingworx
+- Follow the below instruction to create thinkworx docker container
+- Need to download feature files and then create a docker container
+
+https://support.ptc.com/help/thingworx/platform/r9/en/index.html#page/ThingWorx%2FHelp%2FInstallation%2FThingWorxDockerGuide%2Fthingworx_docker_landing_page.html%23
+
 - Configure public IP for thingworx
 - Configure the container with sql connection
 - Install licence
