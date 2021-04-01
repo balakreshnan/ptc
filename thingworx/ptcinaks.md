@@ -50,14 +50,14 @@
     - 1 thingworx docker container
     - 1 Ignite containers
     - 1 IotHub thingworx connector
-    - 1 Zooker nodes
+    - 1 Zookeeper nodes
 
 - Production/QA/Test
     - 2 Nginx Controller - ingress docker container
     - 3 thingworx docker container
     - 2 Ignite containers
     - 1 IotHub thingworx connector
-    - 3 Zooker nodes
+    - 3 Zookeeper nodes
 - Above configuration can take upto 100,000 devices
 - Assign ngix controller to thingworx URL - Basically match port 443 to nginx ip to thingworx IP.
 - Architecture above shows what port it connects to
