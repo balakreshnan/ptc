@@ -22,8 +22,13 @@
     - Create a private Network for AKS
     - Create a private endpoint for Storage
     - Create a private endpoint for Azure SQL Database
+    - Create Private DNS
+    - Ensure communication firewall rules are allowed and opened
 - Azure firewall
 - VM - F16 series VM with 16 CPU - 32 GB - 3 nodes minimum for production
+- Use Azure DevOps for code repository
+- Use Azure DevOps for CI/CD to deploy between environments
+- Optional terraform can also be used to deploy
 
 ## Azure Components
 
@@ -91,3 +96,7 @@
 ## Thingworx development
 
 - All development work is done thingworx web portal
+- Thing modelling and dashboard are built in Thingworx Web portal
+- Need license for thingworx
+- All thingworx modules are available through their web portal
+- Need login provided by PTC to access downloads
